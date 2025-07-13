@@ -31,7 +31,7 @@ Head over to https://github.com/timgrossmann/InstaPy/wiki/Reporting-An-Issue to 
 ```python
 from instapy import InstaPy
 
-InstaPy(username='test', password='test')\
+InstaPy(username='_x2real', password='Savage888$')\
   .login()\
   .set_do_comment(True, percentage=10)\
   .set_comments(['Cool!', 'Awesome!', 'Nice!'])\
